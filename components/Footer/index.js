@@ -7,9 +7,9 @@ const Footer = () => {
         Projeto desenvolvido por: {" "}
         <a
           className="hover:underline"
-          href="https://github.com/drawciamage"
+          href="https://github.com/JNCJcoder"
         >
-          DrawciaMage
+          JNCJ
         </a>
         <div className="mt-2">
           <img className="inline p-4" src="/logo_semana_fsm.png" />
